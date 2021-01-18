@@ -1,2 +1,2 @@
 # projecteuler
-This repository includes the solutions of project euler problems of that I solved
+This repository includes the solutions of project euler problems that I solved
