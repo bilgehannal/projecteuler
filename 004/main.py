@@ -3,6 +3,7 @@ def is_palindorme(s):
         return True
     return False
 
+
 max_palindorme = 0
 
 for i in range(100, 1000):
@@ -11,5 +12,5 @@ for i in range(100, 1000):
             max_palindorme = i * j
             print("i: {}, j: {}, max: {}".format(i, j, i*j))
 
-print()      
+print()
 print(max_palindorme)
